@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EkkUDP1XjsBEFL9oCbRosR0CgxbhBATNHZMpBdM6txQ=",
+  "Source": "SecretSanta_API",
+  "BasePath": "_content/SecretSanta_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
